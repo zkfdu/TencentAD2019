@@ -1,7 +1,7 @@
 import pandas as pd
 
 # data\\totalExposureLog.out
-# data\\user_data
+# data\\user_data     
 
 totalExposure = pd.DataFrame(
     columns=['AD_id', 'time', 'AD_loc_id', 'user_id', 'expo_id', 'expo_size', 'expo_bid', 'expo_pctr',
